@@ -1,5 +1,5 @@
 -- Main entry point - loads all modules from GitHub and initializes
-local BASE_URL = "https://raw.githubusercontent.com/ProphecySkondo/env/main/Organized/"
+local BASE_URL = "https://raw.githubusercontent.com/ProphecySkondo/env/master/Organized/"
 
 -- Loader function
 local function loadModule(name)
